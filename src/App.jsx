@@ -16,7 +16,7 @@ function App() {
             <NavLink to="/add" className="hover:text-indigo-600">Add Book</NavLink>
           </div>
           <a
-            href="https://github.com/AdityaPawar14"
+            href="https://github.com/AdityaPawar14/Online-Library"
             target="_blank"
             rel="noopener noreferrer"
             className="text-black px-4 py-2 rounded hover:text-indigo-600 text-lg"
